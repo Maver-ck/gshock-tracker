@@ -33,6 +33,6 @@ Thumbs.db
 # =========================
 .env
 *.env
-*.properties
 *.yml
 *.yaml
+.mvn/wrapper/maven-wrapper.properties
